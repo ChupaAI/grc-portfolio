@@ -15,8 +15,6 @@ I bring a 13-year background across digital governance, law enforcement, and org
 
 Project 01 is a reference case study based on real work: specifics are sanitized, the design patterns, controls, and risk reasoning are intact. Project 04 is the practical component of ISO/IEC 27001:2022 Lead Auditor certification work, built against a fictitious subject organisation and run as though the deliverables were going to a real audit.
 
-Certification: ISO/IEC 27001:2022 Lead Auditor (2026).
-
 ## Contact
 
 - LinkedIn: linkedin.com/in/florianvera
